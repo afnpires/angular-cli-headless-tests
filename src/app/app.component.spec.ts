@@ -29,4 +29,8 @@ describe('AppComponent', () => {
     const compiled = fixture.debugElement.nativeElement;
     expect(compiled.querySelector('h1').textContent).toContain('Welcome to app!!');
   }));
+
+  it('should fail', () => {
+    expect(1).toEqual(3);
+  });
 });
