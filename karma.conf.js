@@ -33,5 +33,6 @@ module.exports = function (config) {
       // 'ChromeHeadless'
     ],
     singleRun: false
+    // https://stackoverflow.com/q/44756863/3805983
   });
 };
