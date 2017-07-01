@@ -1,6 +1,8 @@
-# AngularCliHeadlessTests
+# angular-cli Headless Tests
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
+
+An example of a project using the chrome headless to preform karma testing.
 
 ## Development server
 
